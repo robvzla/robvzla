@@ -35,6 +35,7 @@ Thanks for stopping by!
 <img align="left" alt="GitHub" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/>
 <img align="left" alt="Git" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"/>
 <br /><br />
+<br /><br />
 
 ### DevOps and Cloud Technologies
 <img align="left" alt="Jenkins" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"/>
